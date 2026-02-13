@@ -154,3 +154,4 @@ Esto confirmó que la conexión entre Django y PostgreSQL funciona correctamente
 ## Conclusión
 
 La actividad permitió comprender la conexión entre Django y PostgreSQL, la definición de modelos, la aplicación de migraciones y el uso del ORM para realizar operaciones CRUD de manera eficiente.
+
